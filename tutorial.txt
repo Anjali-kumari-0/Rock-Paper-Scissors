@@ -1,0 +1,39 @@
+create env
+python -m venv venv
+venv\Scripts\activate
+pip install flask
+
+
+explainnation
+
+1. flask is web library in python (create rest API) (specially backend)
+2. we need envirorment so we are going to create env (>> python -m venv venv)
+    to activate the env is (>> venv\Script\activate)
+
+3. now create requiremnt file and app.py file
+   flask run run the flask project
+
+
+4.     
+
+
+*************
+1. Flask app routing
+
+
+
+
+******** Questing ***********
+1. what is __name and __main__ , iske alwae aur kya kya use kr sakte hai, aur kon kab use hota hai aur yaha __name__ ka use Q kiye
+
+2. app ko configure Q kiya jata hai ? aur kya kya use hota hai usko krne ke liye  ? form_object kya aur aap.config kya hai ? app ke adr aur kya kya hota hai jisko app. kr ke likhe sakte hai?
+
+3. register_blueprint kya hai aur kb use hota hai
+
+4. hmlog if  __name__=="__name__": compare Q krte hai?
+
+5. Blueprint kya hai aur route banate wakt blueprint Q krte hai
+
+6. how export and import funtion works
+
+
